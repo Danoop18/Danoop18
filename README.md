@@ -1,6 +1,6 @@
-- 👋 <h1>Hi, I’m @Danoop18 </h1>
+ <h1 center> 👋Hi, I’m @Danoop18 </h1>
 
-- 👀 I’m interested in mastering Python and working on data science, as well as task automation
+- 👀 I’m interested in mastering **Python** and working on data science, as well as task automation
 - 🌱 I’m currently learning Python programming using frameworks and some libraries for databases
 - 💞️ I’m looking to collaborate on research in data science and machine learning
  
